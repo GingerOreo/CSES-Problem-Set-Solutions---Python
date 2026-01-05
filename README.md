@@ -13,7 +13,7 @@ I am a Grade 12 student at DLSU practicing my logic and algorithmic thinking. My
 - [x] Weird Algorithm
 - [x] Missing Number
 - [x] Repetitions
-- [ ] Increasing Array
+- [x] Increasing Array
 - [x] Permutations
 - [x] Number Spiral
 - [x] Two Knights
@@ -22,3 +22,5 @@ I am a Grade 12 student at DLSU practicing my logic and algorithmic thinking. My
 - [x] Trailing Zeros
 - [ ] Coin Piles
 - [x] Palindrome Reorder
+
+- [x] Distinct Numbers
